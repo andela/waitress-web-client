@@ -1,0 +1,6 @@
+# Libraries
+node_modules/
+client/app/lib/
+client/app/dist/
+npm-debug.log
+client/dist
